@@ -1,1 +1,1 @@
-# exerc-cios-de-dados
+# exercícios de dados
